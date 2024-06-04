@@ -1,22 +1,12 @@
 <h1 align="center">Hi, I'm Lars</h1>
 
-###
-
 <h2 align="center">A Software developer from the Netherlands</h2>
-
-###
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">🐛 Creating bugs since 2022<br>👷‍♂️ I'm currently working on my personal website <br>🎲 Random fun fact: I pay for email</p>
 
-###
-
 <h2 align="left">I can work with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
