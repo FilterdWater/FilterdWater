@@ -1,62 +1,28 @@
-<h1 align="center">Hi, I'm Lars</h1>
+# Hi, I'm Lars
 
-<h3 align="center">A Software developer from the Netherlands</h3>
+## A Software Developer from the Netherlands
 
-<h3 align="left">About me</h3>
+### About Me
 
-<p align="left">🐛 Creating bugs since 2022<br>👷‍♂️ I'm currently working on my personal website <br>🎲 Random fun fact: I pay for email</p>
+- 🐛 Creating bugs since 2022
+- 👷‍♂️ Currently working on my personal website
+- 🎲 Random fun fact: I pay for email
 
-<h3 align="left">I can work with</h3>
+### Technologies I Work With
 
-<div align="left">
-  <div style="padding-bottom: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  </div>
-
-  <div style="padding-bottom: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  </div>
-
-  <div style="padding-bottom: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  </div>
-
-  <div style="padding-bottom: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  </div>
-
-  <div style="padding-bottom: 6px;">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  </div>
-
-  <div style="padding-bottom: 6px;">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  </div>
-
-
-</div>
+-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+-![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/06B6D4)
+-![SASS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
+-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+-![Laravel](https://cdn.simpleicons.org/laravel/FF2D20)
+-![WordPress](https://cdn.simpleicons.org/wordpress/21759B)
+-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+-![jQuery](https://cdn.simpleicons.org/jquery/0769AD)
+-![Astro](https://cdn.simpleicons.org/astro/FF5D01)
+-![Node.js](https://cdn.simpleicons.org/nodedotjs/339933)
+-![NPM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)
+-![Yarn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg)
+-![Linux](https://cdn.simpleicons.org/linux/FCC624)
+-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
