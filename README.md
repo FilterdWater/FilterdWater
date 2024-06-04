@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/filterdwater/filterdwater/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FilterdWater/FilterdWater/output/snake.svg" alt="Snake animation" />
 
 ###
